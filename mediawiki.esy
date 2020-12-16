@@ -13,8 +13,8 @@
 #Highlight=on
 #BeginTag=
 #EndTag=
-#CommentBegin=
-#CommentEnd=
+#CommentBegin=<!--
+#CommentEnd=-->
 #LineComment1=
 #LineComment2=
 #SingleQuote=off
